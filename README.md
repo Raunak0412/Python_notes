@@ -2,7 +2,11 @@
 
 This repository contains my Python learning notes, practice files, and small exercises organized by chapter. It is meant to track progress while learning the basics of Python step by step, from simple syntax to common data structures and control flow.
 
+<<<<<<< HEAD
 The project is divided into folders such as `chapter1`, `chapter2`, `chapter3`, `chapter4`, `brocode` and more. Each folder includes example programs, assignments, and practice problems related to the topic being learned. The files cover concepts like variables, input and output, data types, operators, conditionals, loops, strings, lists, tuples, dictionaries, and functions.
+=======
+The project is divided into folders such as `chapter1`, `chapter2`, `chapter3`, `chapter4`,`brocode`and more . Each folder includes example programs, assignments, and practice problems related to the topic being learned. The files cover concepts like variables, input and output, data types, operators, conditionals, loops, strings, lists, tuples, dictionaries, and functions.
+>>>>>>> edd16a9 (Learnng on pace)
 
 This repo is useful as a personal reference for revising Python concepts and revisiting solved exercises later. It also shows the progression of learning through small, readable scripts instead of one large application.
 
