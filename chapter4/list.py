@@ -26,3 +26,8 @@ L1.pop(2)
 print(L1)
 
 
+
+friends.insert(1,"systum")
+friends.remove(1)
+
+
